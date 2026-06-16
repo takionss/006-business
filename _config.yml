@@ -46,11 +46,11 @@ header_pages:
 # [추가된 부분] 언어별 사이트 타이틀 및 설명 설정
 # ----------------------------------------------------------------
 titles:
-  ko: "Smiles Life - 비즈니스 마스터"
-  en: "Smiles Life - Business Master"
-  ja: "Smiles Life - ビジネスマスター"
-  zh-TW: "Smiles Life - 商业大师"
-  es: "Smiles Life - Maestría en negocios"
+  ko: "비즈니스 마스터"
+  en: "Business Master"
+  ja: "ビジネスマスター"
+  zh-TW: "商业大师"
+  es: "Maestría en negocios"
 
 descriptions:
   ko: "Smiles Life의 성공하는 기업가 정신과 글로벌 비즈니스 전략"
